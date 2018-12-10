@@ -8,5 +8,5 @@ IoT-BarcodeScanner merupakan sebuah sistem berbasis Internet of Things yang digu
 4. [ESP8266-01](images/ESP8266-01.jpg)
 5. [Kabel Jumper](images/jumper.jpg)
 
-# Prinsip Kerja Alat
+## Prinsip Kerja Alat
 <img src="images/prinsipkerja.JPG">
